@@ -1,0 +1,11 @@
+{"id":8,"title":"Budapest bakelse","desc":"Bakelse","price":49,"createdAt":"2024-06-23T15:43:05.208Z","_id":"1B5PWcCWwkoNFwwV"}
+{"id":6,"title":"Cortado","desc":"Bryggd på månadens bönor.","price":39,"_id":"IMmjoEwA0xcCcNFT"}
+{"id":3,"title":"Cappuccino","desc":"Bryggd på månadens bönor","price":"38","_id":"Z09720iZElB7luH8","modifiedAt":"2024-06-23T15:44:13.905Z"}
+{"id":2,"title":"Caffè Doppio","desc":"Bryggd på månadens bönor.","price":49,"_id":"bus61LLwiiengLHI"}
+{"id":5,"title":"Kaffe Latte","desc":"Bryggd på månadens bönor.","price":54,"_id":"fz2XJDqKb5ZRrzYk"}
+{"id":4,"title":"Latte Macchiato","desc":"Bryggd på månadens bönor.","price":49,"_id":"mBlx07THNWV4H29U"}
+{"id":7,"title":"Gustav Adolfsbakelse","desc":"Bakelse","price":49,"createdAt":"2024-06-22T06:45:10.068Z","_id":"nCd8npgWWy9Rh0eG"}
+{"id":1,"title":"Bryggkaffe","desc":"Bryggd på månadens bönor.","price":39,"_id":"sbeshuFwc5bnNhj2"}
+{"id":10,"title":"Pepparkaka","desc":"Kaka","price":12,"createdAt":"2024-06-23T18:09:43.476Z","_id":"UBYtypE876LwehMK"}
+{"id":10,"title":"Pepparkaka","desc":"Kaka","price":"13","createdAt":"2024-06-23T18:09:43.476Z","_id":"UBYtypE876LwehMK","modifiedAt":"2024-06-23T18:10:02.549Z"}
+{"id":9,"title":"Syltkaka","desc":"Kaka","price":7,"createdAt":"2024-06-23T18:11:01.595Z","_id":"2kzj8hVivObsuY8j"}
