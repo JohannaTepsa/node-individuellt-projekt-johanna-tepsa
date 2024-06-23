@@ -169,8 +169,8 @@ LOG OUT
 <br>Method: POST
 
 ## Menu Handling
-<br>For logged in Admins only.
-ADDING MENU ITEM TO MENU
+For logged in Admins only.
+<br>ADDING MENU ITEM TO MENU
 <br>URL and endpoints: http://localhost:8000/menu/add
 <br>Method: POST
 <br>JSON Body:
@@ -201,7 +201,7 @@ DELETING MENU ITEM TO MENU
 <br>Method: POST
 
 ## Creating a Campaign
-<br>For logged in Admins only.
+For logged in Admins only.
 <br>URL and endpoints: http://localhost:8000/campaign/add
 <br>Method: POST
 <br>JSON Body:
